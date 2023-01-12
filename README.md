@@ -1,4 +1,4 @@
-# Game Proyecto
+# Game Proyect
 
 Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 
