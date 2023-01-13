@@ -7,7 +7,7 @@ def generate_bar_chart(labels, values, name = 'bar'):
     plt.close()
 
 
-def generate_pie_chart(labels, values, name = 'pie'):
+def generate_pie_chart(labels, values, name = 'chart_pie_final_este_si'):
     fig, ax = plt.subplots()
     ax.pie(values, labels = labels)
     ax.axis('equal')

@@ -36,5 +36,6 @@ def run():
     #print(dic_selected_country)
     chrt.generate_bar_chart(dic_selected_country.keys(), dic_selected_country.values(), selectioned_country)
 
+
 if __name__ == '__main__':
     run()
